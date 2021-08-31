@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+button{
+    height: 50px;
+    width: 150px;
+    margin-left: 30px;
+}
+button:hover{
+    background-color: burlywood;
+}
+/* .selection{
+    margin-left: 100px;
+    display: inline;
+    background-color: coral;
+} */
+#se{
+    display: inline-block;
+    /* background-color: cornflowerblue; */
+}
+
+#sc{
+    display: inline-block;
+}
+
+h1{
+
+    width: 300px;
+    /* background-color: chartreuse; */
+}
